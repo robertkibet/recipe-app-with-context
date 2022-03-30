@@ -1,3 +1,17 @@
+# How to run this project
+Once you clone 
+```
+git clone https://github.com/robertkibet/recipe-app-with-context.git
+```
+1. Run `npm install` to get the node_modules in place
+2. To start the project: `npm run start`
+3. To build the project: `npm run build`
+4. To run tests on the project: `npm run test`
+5. To view project locally, on your browser visit [http://localhost:3000](http://localhost:3000)
+
+
+----
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
