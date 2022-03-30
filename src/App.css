@@ -63,6 +63,11 @@ input {
   color: white;
 }
 
+.themed.light button {
+  background-color: #333;
+  color: white;
+}
+
 .themed.light {
   background-color: #fff;
   color: #333;
